@@ -1,4 +1,5 @@
-import pytest
+# lib/testing/result_test.py
+import pytest # type: ignore
 
 from classes.many_to_many import Player
 from classes.many_to_many import Game
